@@ -1,9 +1,6 @@
 ## Member of FRC Team 2200 - Burlington Community Robotics
 ## Student @ M.M. Robinson High School
 
-Java/Excel
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
